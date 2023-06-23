@@ -1,0 +1,24 @@
+2) Demonstrate how to read data from the Smart Contract with the
+help of Web3.js.
+
+
+Install Node js
+
+Then On CMD  Install npm 
+Then install web3.js  Command as follows -- npm install web3
+
+Type Node in CMD 
+Then type const web3 =require('web3');
+
+Connect to Ganache 
+
+Add a transaction to the block 
+have transaction address 
+and copy address to new abi 
+
+It will show the transaction data where Data or money transfered with gas fees 
+
+
+
+
+

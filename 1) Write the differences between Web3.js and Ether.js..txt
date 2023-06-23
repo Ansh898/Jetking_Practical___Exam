@@ -1,0 +1,7 @@
+1) Write the differences between Web3.js and Ether.js.
+
+Ether.js is a library is Javascript that helps developers to build Dapps while web3.js is a library 
+that helps developers to connect to the etherium network . both library are important for development 
+
+Ether.js uses the wallet class to create a new wallet whereas web.js uses the eth.accounts object to create a new wallet 
+
